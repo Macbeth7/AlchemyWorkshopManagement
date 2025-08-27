@@ -14,12 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,10 +24,14 @@
               "RelativeDocumentMoniker": "AlchemyWorkshopManagement\\AlchemyWorkshopManagement.cpp",
               "ToolTip": "D:\\Cplus2\\AlchemyWorkshopManagement\\AlchemyWorkshopManagement\\AlchemyWorkshopManagement.cpp",
               "RelativeToolTip": "AlchemyWorkshopManagement\\AlchemyWorkshopManagement.cpp",
-              "ViewState": "AgIAAIcAAAAAAAAAAAA7wJwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAIoAAAAAAAAAAAA7wJcAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-08-26T11:02:21.939Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         },
